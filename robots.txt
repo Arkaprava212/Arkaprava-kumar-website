@@ -17,4 +17,4 @@ Allow: /
 User-agent: Google-Extended
 Allow: /
 
-Sitemap: https://www.arkapravakumar.com/sitemap.xml
+Sitemap: https://arkaprava-kumar-website.vercel.app/sitemap.xml
