@@ -1,0 +1,9 @@
+{
+  "name": "Arkaprava Kumar",
+  "short_name": "Arkaprava",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f7f9fc",
+  "theme_color": "#16293f",
+  "icons": [{"src": "assets/favicon.svg", "sizes": "any", "type": "image/svg+xml"}]
+}
